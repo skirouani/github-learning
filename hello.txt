@@ -2,3 +2,5 @@ Hello GitHub!
 This is my first Git project.
 
 I am learning Git step by step.
+Git is becoming easier!
+
